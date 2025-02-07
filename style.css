@@ -3,7 +3,7 @@ body {
     text-align: center;
     font-family: "NiseSegaSonic";
     margin: 0;
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 @font-face {
